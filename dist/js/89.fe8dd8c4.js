@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcommon"]=self["webpackChunkcommon"]||[]).push([[89],{9089:function(n,t,e){e.r(t),e.d(t,{default:function(){return s}});var u=e(3396);function c(n,t,e,c,r,o){return(0,u.wg)(),(0,u.iD)("div",null,"Contacts")}var r={name:"ContactsVue"},o=e(89);const a=(0,o.Z)(r,[["render",c]]);var s=a}}]);
+//# sourceMappingURL=89.fe8dd8c4.js.map
